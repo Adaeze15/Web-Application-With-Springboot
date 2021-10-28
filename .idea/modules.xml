@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Student-Rest-Apis-Example/Student-Rest-Apis-Example.iml" filepath="$PROJECT_DIR$/Student-Rest-Apis-Example/Student-Rest-Apis-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Student-Rest-Apis-Example (1).iml" filepath="$PROJECT_DIR$/.idea/Student-Rest-Apis-Example (1).iml" />
+    </modules>
+  </component>
+</project>
